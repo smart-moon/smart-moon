@@ -1,11 +1,11 @@
-### 🌱 Make it work, make it right, make it fast.🔥
+### 🌱 Great quality, fast delivery, and innovative ideas .🔥
 
 ### Fullstack Blockchain developer with strong knowledge and hands-on experience in <br />
 
 ✅    Solidity, Hardhat, Truffle, Rust <br />
-✅    React, NextJs, JS/TS, Web3, Ethersjs <br />
-✅    DeFi, Dex Vault from Uniswap, PancakeSwap on multichain(Ethereum, BSC, Polygon, Avalanche, etc) <br />
-✅    NFT marketplaces, Opensea APIs, SDK, Thegraph, Moralis API, Ox API, Etherscan APIs <br />
+✅    DeFi, Dex, Governance Token, NFT <br />
+✅    Ethereum, BSC, Polygon, Avalanche, Fantom, Zksync, Arbitrum <br />
+✅    Opensea APIs, SDK, Thegraph, Moralis API, Ox API, Etherscan APIs <br />
 
 <br />
 
